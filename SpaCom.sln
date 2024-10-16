@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaCom.Server", "SpaCom.Server\SpaCom.Server.csproj", "{B01F65EA-B5CD-465E-B201-15CC0CE04E28}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "spacom.client", "spacom.client\spacom.client.esproj", "{628A4D8A-60D3-4791-9765-75631FDEED9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01F65EA-B5CD-465E-B201-15CC0CE04E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01F65EA-B5CD-465E-B201-15CC0CE04E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01F65EA-B5CD-465E-B201-15CC0CE04E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01F65EA-B5CD-465E-B201-15CC0CE04E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628A4D8A-60D3-4791-9765-75631FDEED9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628A4D8A-60D3-4791-9765-75631FDEED9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628A4D8A-60D3-4791-9765-75631FDEED9A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{628A4D8A-60D3-4791-9765-75631FDEED9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628A4D8A-60D3-4791-9765-75631FDEED9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628A4D8A-60D3-4791-9765-75631FDEED9A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {569FC666-A902-4BFC-B6F4-8A948E014ABA}
+	EndGlobalSection
+EndGlobal
